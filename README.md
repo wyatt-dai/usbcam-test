@@ -10,7 +10,7 @@ usbcam-test/
 ├── usbcam_quick_start.md                  # 快速开始指南
 ├── sg2002-licheervnano-setup.md           # 开发板环境搭建复现文档（烧录过程）
 ├── comprehensive-usbcam-reproduction-doc.md # usbcam测试完整文档
-└── test-program/                          # 测试程序
+└── test-program/                          # 测试程序（交叉编译后放入rootfs）
     ├── README-FINAL.md                    # 测试程序使用说明
     ├── Makefile                           # 编译脚本
     ├── starrycam_test.c                   # StarryOS功能测试
